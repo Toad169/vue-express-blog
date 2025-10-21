@@ -13,7 +13,8 @@
 3. run `cd ..`
 4. run `cd backend` and run `npm install`
 5. copy paste the `.env.example` to `.env`
-6. done
+6. still in backend, run `npx prisma migrate dev --name init`
+7. done
 
 ## About
 
